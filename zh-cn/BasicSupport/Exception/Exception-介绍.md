@@ -20,9 +20,9 @@ private:
 以下是`Exception`类的成员函数。这些函数**不会**抛出异常。
 ```
 public:
-	Exception(std::wstring exceptionDetail);
-	std::wstring getExceptionDetail();
-	SYSTEMTIME getExceptionTime();
+    Exception(std::wstring exceptionDetail);
+    std::wstring getExceptionDetail();
+    SYSTEMTIME getExceptionTime();
 ```
 如无特殊说明，函数类型默认为`void`。
 

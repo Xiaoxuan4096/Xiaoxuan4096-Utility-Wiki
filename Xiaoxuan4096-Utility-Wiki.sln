@@ -3,8 +3,43 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35707.178 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "zh-cn", "zh-cn", "{962F467A-55D8-4AF9-BE9E-10DD90A3D977}"
+	ProjectSection(SolutionItems) = preProject
+		zh-cn\简体中文版-Wiki-导航.md = zh-cn\简体中文版-Wiki-导航.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决方案项", "{D40FBD12-9DBF-44CE-96F8-59692663D735}"
+	ProjectSection(SolutionItems) = preProject
+		Home.md = Home.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BasicSupport", "BasicSupport", "{93527F1E-D129-4F64-A61B-25C0199DD7F9}"
+	ProjectSection(SolutionItems) = preProject
+		zh-cn\BasicSupport\BasicSupport-导航.md = zh-cn\BasicSupport\BasicSupport-导航.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FileBase", "FileBase", "{C1285717-8287-4949-92DC-A75BB60D95B4}"
+	ProjectSection(SolutionItems) = preProject
+		zh-cn\BasicSupport\FileBase\FileBase-介绍.md = zh-cn\BasicSupport\FileBase\FileBase-介绍.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exception", "Exception", "{5F98A223-F2E8-4978-9632-B813771A5777}"
+	ProjectSection(SolutionItems) = preProject
+		zh-cn\BasicSupport\Exception\Exception-介绍.md = zh-cn\BasicSupport\Exception\Exception-介绍.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "en-us", "en-us", "{C94FB365-7680-4CCD-B379-C2BD52392D9E}"
+	ProjectSection(SolutionItems) = preProject
+		en-us\English-Wiki-Guide.md = en-us\English-Wiki-Guide.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{93527F1E-D129-4F64-A61B-25C0199DD7F9} = {962F467A-55D8-4AF9-BE9E-10DD90A3D977}
+		{C1285717-8287-4949-92DC-A75BB60D95B4} = {93527F1E-D129-4F64-A61B-25C0199DD7F9}
+		{5F98A223-F2E8-4978-9632-B813771A5777} = {93527F1E-D129-4F64-A61B-25C0199DD7F9}
 	EndGlobalSection
 EndGlobal

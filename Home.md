@@ -10,8 +10,8 @@ The Wiki is written to help you gain a better grasp of this library.
 > 
 > This Wiki is **far from** perfect and some pages may not exist.
 
-如需访问[简体中文版](简体中文版-Wiki-导航)，点击[这里](简体中文版-Wiki-导航)。
+如需访问[简体中文版](zh-cn/简体中文版-Wiki-导航)，点击[这里](zh-cn/简体中文版-Wiki-导航)。
 
-To read the [English version](English-Wiki-Guide), click [here](English-Wiki-Guide).
+To read the [English(America) version](en-us/English-Wiki-Guide), click [here](en-us/English-Wiki-Guide).
 > [!NOTE]
 > English version may not as accurate as Chinese Simpified version.

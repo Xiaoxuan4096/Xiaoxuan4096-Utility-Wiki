@@ -1,4 +1,4 @@
-[< 返回 BasicSupport 导航](BasicSupport-导航)
+[< 返回 BasicSupport 导航](../BasicSupport-导航)
 
 本文建议阅读时间： 2 分钟。
 > [!NOTE]

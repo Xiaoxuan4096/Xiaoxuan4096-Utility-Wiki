@@ -11,4 +11,4 @@ The Wiki is written to help you gain a better grasp of this library.
 
 However, I cannot spare enough time to build the English Wiki.
 
-As an alternative, you can use a translator to read the [Chinese Simplified version](../zh-cn/简体中文版-Wiki-导航).
+As an alternative, you can use a translator to read the [Chinese Simplified version](../zh-cn/简体中文版-Wiki-导航.md).

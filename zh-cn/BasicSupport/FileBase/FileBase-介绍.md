@@ -4,22 +4,16 @@
 > [!NOTE]
 > 本文仅供参考，请以源码为准。
 
-# FileBase 介绍
-FileBase 提供了一组函数用于文件、文件夹的操作。
+# `FileBase`介绍
+`FileBase`提供了一组函数用于文件、文件夹的操作。
 > [!TIP]
-> 建议使用 FileEditor 以更方便的管理文件、文件夹。
+> 建议使用`FileEditor`以更方便的管理文件、文件夹。
 
 所有函数均属于`Xiaoxuan4096::Basic::File`命名空间。
 
-一些函数基于`<fstream>`，另一些函数基于`<filesystem>`。
+一些函数使用了`<fstream>`，另一些函数使用了`<filesystem>`。
 
-所有函数都**不会**抛出异常。如无特殊说明，所有函数都**不使用**二进制读写模式。
-
-如无特殊说明，函数类型默认为`void`。
-> [!WARNING]
-> FileBase 中所有涉及删除文件、文件夹的操作均**不可撤销**。
-
-以下是函数列表。如需更详细的信息，请向下阅读。
+以下是`FileBase`定义的函数。这些函数**不会**抛出异常。
 ```
 void createFile(std::wstring path);
 void deleteFile(std::wstring path);
@@ -38,6 +32,11 @@ std::wstring readFile(std::wstring path);
 
 bool existFile(std::wstring path);
 ```
+如无特殊说明，所有函数都**不使用**二进制读写模式。
+
+如无特殊说明，函数类型默认为`void`。
+> [!WARNING]
+> `FileBase`中所有涉及删除文件、文件夹的操作均**不可撤销**。
 ---
 ## 文件的创建和删除
 使用`createFile(std::wstring path)`函数可以创建一个文件。
@@ -74,7 +73,7 @@ bool existFile(std::wstring path);
 > [!CAUTION]
 > **直接**使用此函数读取大文件时，内存分配可能失败。
 >
-> 如需读取大文件，请考虑使用 FileEditor 。
+> 如需读取大文件，请考虑使用 `FileEditor` 。
 
 |参数列表|类型|用途|
 |---|---|---|
@@ -128,3 +127,6 @@ bool existFile(std::wstring path);
 |参数列表|类型|用途|
 |---|---|---|
 |path|`std::wstring`|指定文件路径。|
+
+---
+[< 返回 BasicSupport 导航](../BasicSupport-导航.md)

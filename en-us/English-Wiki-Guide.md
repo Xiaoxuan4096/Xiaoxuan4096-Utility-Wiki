@@ -1,4 +1,4 @@
-[< Return to Home](../Home)
+[< Return to Home](../Home.md)
 # Xiaoxuan4096-Utility Wiki English Version 
 Welcome to the Xiaoxuan4096-Utility Wiki !
 

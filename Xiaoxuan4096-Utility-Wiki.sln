@@ -11,6 +11,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决方案项", "{D40FBD12-9DBF-44CE-96F8-59692663D735}"
 	ProjectSection(SolutionItems) = preProject
 		Home.md = Home.md
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BasicSupport", "BasicSupport", "{93527F1E-D129-4F64-A61B-25C0199DD7F9}"

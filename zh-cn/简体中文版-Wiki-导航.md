@@ -1,4 +1,4 @@
-[<返回主页](../Home.md)
+[<返回主页](../Home-简体中文版.md)
 # Xiaoxuan4096-Utility Wiki 简体中文版
 欢迎查阅简体中文版 Wiki ！
 

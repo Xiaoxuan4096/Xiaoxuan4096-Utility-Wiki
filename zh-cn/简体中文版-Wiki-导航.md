@@ -1,7 +1,7 @@
-# Xiaoxuan4096-Utility Wiki 简体中文版
-欢迎查阅 Xiaoxuan4096-Utility Wiki 简体中文版 ！
+# `Xiaoxuan4096-Utility`Wiki 简体中文版
+欢迎查阅`Xiaoxuan4096-Utility`Wiki 简体中文版 ！
 
-Xiaoxuan4096-Utility 是一个综合性的库。
+`Xiaoxuan4096-Utility`是一个综合性的库。
 
 编写这个 Wiki 是希望它能帮助您更好地使用本库。
 
@@ -11,4 +11,4 @@ Xiaoxuan4096-Utility 是一个综合性的库。
 如需更详细的信息，请查阅以下文档。
 
 1. 库文件的基本介绍。
-    1. [BasicSupport](BasicSupport/BasicSupport-导航.md)
+    1. [`BasicSupport`](BasicSupport/BasicSupport-导航.md)

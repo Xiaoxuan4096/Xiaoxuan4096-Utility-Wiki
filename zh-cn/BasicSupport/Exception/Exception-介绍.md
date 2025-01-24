@@ -1,4 +1,4 @@
-[< 返回 BasicSupport 导航](../BasicSupport-导航.md)
+[< 返回`BasicSupport`导航](../BasicSupport-导航.md)
 
 本文建议阅读时间： 1 分钟。
 > [!NOTE]
@@ -49,3 +49,6 @@ public:
 使用`getExceptionTime()`函数可以获取异常发生的时间。
 
 函数返回一个`SYSTEMTIME`对象，这个对象内存储了异常发生的时间。
+
+---
+[< 返回`BasicSupport`导航](../BasicSupport-导航.md)

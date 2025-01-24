@@ -1,4 +1,4 @@
-[< 返回 BasicSupport 导航](../BasicSupport-导航.md)
+[< 返回`BasicSupport`导航](../BasicSupport-导航.md)
 
 本文建议阅读时间： 2 分钟。
 > [!NOTE]
@@ -129,4 +129,4 @@ bool existFile(std::wstring path);
 |path|`std::wstring`|指定文件路径。|
 
 ---
-[< 返回 BasicSupport 导航](../BasicSupport-导航.md)
+[< 返回`BasicSupport`导航](../BasicSupport-导航.md)
